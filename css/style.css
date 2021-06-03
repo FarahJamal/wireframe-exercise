@@ -53,7 +53,8 @@ section button:hover {
 section p{
 
     height: 319px;
-    
+    overflow: hidden;
+    word-wrap:break-word;
     font-style: italic;
     line-height: 22px;
     margin-bottom: 20px;
